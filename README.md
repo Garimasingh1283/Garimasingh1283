@@ -41,12 +41,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and **Ma
 ## 👨‍💻 Open Source Contributions
 - Contributed to open source projects through **Hacktoberfest** and **Outreachy**.
 
-## 📈 Contribution Streak
-![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=GarimaSingh)
-
-## 📊 Total Contributions
-![Total Contributions](https://github.com/GarimaSingh/GarimaSingh/blob/main/assets/contributions.svg)
-
+  
 ## 📫 How to Reach Me
 - **Email**: garimas1208@gmail.com
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/garima-singh-a69ab2256/)
