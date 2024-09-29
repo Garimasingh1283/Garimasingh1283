@@ -1,4 +1,3 @@
-
 # Hi there, I'm Garima Singh 👋
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** with a focus on building responsive, user-friendly applications.
@@ -30,7 +29,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and **Ma
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib&logoColor=blue)
   ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
-
 - **Tools**: 
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
   ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=flat-square&logo=mathworks&logoColor=white)
@@ -43,12 +41,18 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and **Ma
 ## 👨‍💻 Open Source Contributions
 - Contributed to open source projects through **Hacktoberfest** and **Outreachy**.
 
-## 📫 How to Reach Me
+## 📈 Contribution Streak
+![Your Streak](https://github-readme-streak-stats.herokuapp.com/?user=GarimaSingh)
 
+## 📊 Total Contributions
+![Total Contributions](https://github.com/GarimaSingh/GarimaSingh/blob/main/assets/contributions.svg)
+
+## 📫 How to Reach Me
 - **Email**: garimas1208@gmail.com
-- **LinkedIn**:(https://www.linkedin.com/in/garima-singh-a69ab2256/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/garima-singh-a69ab2256/)
 
 ### 🌱 Currently learning
 Machine Learning and focusing solely on DSA
 
 Feel free to explore my repositories to see what I’ve been working on lately!
+
