@@ -1,6 +1,6 @@
 # Hi there, I'm Garima Singh 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** with a focus on building responsive, user-friendly applications.
+Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and **IoT** with a focus on building responsive, user-friendly applications.
 
 ## 🛠️ My Tech Stack
 
@@ -47,6 +47,6 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and **Ma
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/garima-singh-a69ab2256/)
 
 ### 🌱 Currently learning
-Machine Learning and focusing solely on DSA
+IoT with wireless sensor networks and focusing solely on DSA
 
 Feel free to explore my repositories to see what I’ve been working on lately!
