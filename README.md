@@ -1,52 +1,57 @@
-# Hi there, I'm Garima Singh 👋
+# Hi, I'm Garima Singh 👋  
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&width=600&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Open-Source+Contributor;CSE+Undergrad+@+IIIT+Vadodara" />
+</p>
 
-Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** and **IoT** with a focus on building responsive, user-friendly applications.
+🚀 **Full-Stack Developer | MERN Stack | Research & Open-Source Enthusiast**
 
-## 🛠️ My Tech Stack
+I’m a Computer Science undergraduate at **IIIT Vadodara**, passionate about building scalable, user-focused web applications and solving real-world problems through clean and maintainable code.
 
-- **Programming Languages**: 
-  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+---
 
-- **Full Stack Development**: 
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=white)
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=next.js&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+## 🛠️ Tech Stack
 
-- **Databases**: 
-  ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=flat-square&logo=postgresql&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+💻 **Programming Languages**  
+Java · C · Python · JavaScript  
 
-- **Machine Learning**: 
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=matplotlib&logoColor=blue)
-  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+🌐 **Full-Stack Development**  
+MongoDB · Express.js · React.js · Node.js · Next.js · Tailwind CSS  
 
-- **Tools**: 
-  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-  ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF6F00.svg?style=flat-square&logo=mathworks&logoColor=white)
-  ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
+🗄️ **Databases**  
+MySQL · PostgreSQL  
 
-- **Other Skills**: 
-  ![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=flat-square&logo=rest&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+📊 **Machine Learning & Data**  
+NumPy · Pandas · Matplotlib · Scikit-learn  
 
-## 👨‍💻 Open Source Contributions
-- Contributed to open source projects through **Hacktoberfest** and **Outreachy**.
+🧰 **Tools & Platforms**  
+Git · Postman · MATLAB · AWS  
 
-  
-## 📫 How to Reach Me
-- **Email**: garimas1208@gmail.com
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/garima-singh-a69ab2256/)
+---
 
-### 🌱 Currently learning
-IoT with wireless sensor networks and focusing solely on DSA
+## 🔬 Experience
 
-Feel free to explore my repositories to see what I’ve been working on lately!
+### 🧪 Research Intern — IIIT Vadodara
+- Reduced SAR (Specific Absorption Rate) in Wireless Body Area Networks  
+- Applied adaptive power control techniques and simulated models using MATLAB  
+- Achieved significant SAR reduction compared to baseline models  
+
+---
+
+## 🌍 Open-Source Contributions
+- 🎯 Contributor through **Hacktoberfest**  
+- 🏆 Cleared the initial round of the **Outreachy Internship Program**  
+- 🤝 Experience collaborating via GitHub issues, PRs, and code reviews  
+
+---
+
+## 🌱 Currently Learning
+- 📚 Data Structures & Algorithms  
+- 📡 IoT and Wireless Sensor Networks  
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** garimas1208@gmail.com  
+🔗 **LinkedIn:** https://linkedin.com/in/garima-singh-a69ab2256  
+💻 **GitHub:** https://github.com/Garimasingh1283
