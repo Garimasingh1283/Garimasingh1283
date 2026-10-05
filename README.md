@@ -10,8 +10,6 @@ B.Tech in Computer Science, IIIT Vadodara.
 
 I build backend systems and developer tooling, with a focus on **AI-assisted code generation, RAG pipelines, and search systems**.
 
-My primary work includes building an end-to-end **RAG pipeline for automated backend code generation** using Laravel and OpenAI, along with backend indexing and federated search systems using Algolia.
-
 ---
 
 ## Experience
